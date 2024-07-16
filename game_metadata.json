@@ -1,0 +1,19 @@
+{
+  "games": [
+    {
+      "name": "game1",
+      "path": "/home/ubuntu/test_games/game1.exe",
+      "thumbnail": ""
+    },
+    {
+      "name": "game3",
+      "path": "/home/ubuntu/test_games/game3.sh",
+      "thumbnail": ""
+    },
+    {
+      "name": "game2",
+      "path": "/home/ubuntu/test_games/game2.app",
+      "thumbnail": ""
+    }
+  ]
+}
