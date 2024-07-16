@@ -1,0 +1,5 @@
+pygame
+aiofiles
+Pillow
+flake8
+black
